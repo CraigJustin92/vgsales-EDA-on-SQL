@@ -8,4 +8,7 @@ Top-performing game titles, including the best and worst Pokemon game.
 Yearly insights, such as the year with the highest-earning racing games.
 Console-wise preferences towards game genres and whether platforms prioritize the most profitable genres.
 
+
 This analysis helps identify publisher trends, genre popularity, and platform preferences in the gaming industry.
+
+[link to dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
