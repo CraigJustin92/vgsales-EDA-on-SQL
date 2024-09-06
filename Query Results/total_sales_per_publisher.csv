@@ -1,0 +1,580 @@
+"Publisher","total_sales"
+"Nintendo",1786.36
+"Electronic Arts",1110.15
+"Activision",727.11
+"Sony Computer Entertainment",607.49
+"Ubisoft",474.51
+"Take-Two Interactive",399.7
+"THQ",340.65
+"Konami Digital Entertainment",283.46
+"Sega",272.95
+"Namco Bandai Games",253.91
+"Microsoft Game Studios",245.78
+"Capcom",200.73
+"Atari",156.88
+"Warner Bros. Interactive Entertainment",153.9
+"Square Enix",145.24
+"Disney Interactive Studios",119.72
+"Eidos Interactive",98.95
+"LucasArts",87.3
+"Bethesda Softworks",82.06
+"Midway Games",69.7
+"Acclaim Entertainment",64.01
+"Vivendi Games",58.15
+"SquareSoft",57.68
+"505 Games",55.75
+"Tecmo Koei",53.55
+"Codemasters",47.74
+"Virgin Interactive",43.9
+"Unknown",34.56
+"Enix Corporation",33.74
+"Deep Silver",25.66
+"GT Interactive",25.22
+"D3Publisher",24.06
+"Sony Computer Entertainment Europe",23.88
+"Hudson Soft",23.02
+"MTV Games",21.03
+"Universal Interactive",17.8
+"Banpresto",17.41
+"Rising Star Games",17.23
+"Infogrames",16.33
+"Majesco Entertainment",15.97
+"Hasbro Interactive",15.21
+"N/A",14.82
+"Nippon Ichi Software",14.37
+"989 Studios",13.3
+"Zoo Digital Publishing",12.89
+"Atlus",12.8
+"Level 5",12.16
+"Empire Interactive",11.34
+"ASCII Entertainment",10.9
+"3DO",10.15
+"Crave Entertainment",9.9
+"RedOctane",8.69
+"TDK Mediactive",8.28
+"Mindscape",7.7
+"Global Star",7.59
+"Focus Home Interactive",7.49
+"Fox Interactive",7.38
+"Psygnosis",7.28
+"Activision Value",6.98
+"Ignition Entertainment",6.66
+"Interplay",6.62
+"SouthPeak Games",6.31
+"Spike",6.14
+"Red Orb",5.25
+"Parker Bros.",4.97
+"Tomy Corporation",4.96
+"BAM! Entertainment",4.88
+"Imagic",4.82
+"Zoo Games",4.79
+"Koch Media",4.73
+"Arena Entertainment",4.72
+"City Interactive",4.57
+"Ubisoft Annecy",4.48
+"Nordic Games",4.45
+"Destineer",4.37
+"Play It",4.31
+"PQube",4.28
+"Marvelous Interactive",4.18
+"Palcom",4.17
+"ChunSoft",4.07
+"Idea Factory",4.0
+"Kadokawa Shoten",3.77
+"Game Factory",3.74
+"Gotham Games",3.73
+"Natsume",3.7
+"GSP",3.69
+"Square",3.65
+"Ocean",3.59
+"DTP Entertainment",3.56
+"Sony Online Entertainment",3.51
+"SCi",3.5
+"Mattel Interactive",3.47
+"Takara",3.44
+"Oxygen Interactive",3.41
+"Maxis",3.39
+"Titus",3.31
+"Black Bean Games",3.26
+"Valve Software",3.22
+"GungHo",3.15
+"Coleco",3.07
+"Human Entertainment",3.02
+"Avanquest",2.99
+"Mojang",2.91
+"Scholastic Inc.",2.88
+"Taito",2.83
+"Ghostlight",2.79
+"JVC",2.78
+"Sammy Corporation",2.73
+"Takara Tomy",2.72
+"Midas Interactive Entertainment",2.72
+"Telltale Games",2.7
+"Imagineer",2.65
+"Alchemist",2.62
+"SNK",2.59
+"NCSoft",2.57
+"Rondomedia",2.56
+"Compile",2.45
+"Kalypso Media",2.4
+"Marvelous Entertainment",2.34
+"Red Storm Entertainment",2.32
+"UEP Systems",2.26
+"Mastiff",2.23
+"Enterbrain",2.23
+"Kemco",2.19
+"Video System",2.17
+"Microprose",2.05
+"ASC Games",2.02
+"RTL",2.01
+"Little Orbit",2.0
+"Jaleco",1.95
+"Nobilis",1.95
+"20th Century Fox Video Games",1.93
+"Agetec",1.93
+"Success",1.92
+"Zushi Games",1.84
+"Rocket Company",1.82
+"Metro 3D",1.81
+"System 3 Arcade Software",1.79
+"Valve",1.73
+"Crystal Dynamics",1.72
+"Mastertronic",1.7
+"Hudson Entertainment",1.69
+"Avanquest Software",1.68
+"Accolade",1.66
+"From Software",1.65
+"Xplosiv",1.64
+"5pb",1.63
+"Hello Games",1.6
+"Touchstone",1.59
+"LEGO Media",1.56
+"PopCap Games",1.56
+"Westwood Studios",1.55
+"Laguna",1.55
+"Storm City Games",1.53
+"JoWood Productions",1.5
+"Arc System Works",1.47
+"Genki",1.47
+"Knowledge Adventure",1.46
+"XS Games",1.46
+"Tigervision",1.43
+"Pinnacle",1.42
+"Rage Software",1.41
+"GameMill Entertainment",1.41
+"Slightly Mad Studios",1.37
+"Compile Heart",1.37
+"NewKidCo",1.31
+"FuRyu",1.31
+"Milestone S.r.l.",1.27
+"Aqua Plus",1.26
+"Falcom Corporation",1.22
+"Brash Entertainment",1.21
+"Playlogic Game Factory",1.21
+"Russel",1.21
+"Gathering of Developers",1.2
+"Black Label Games",1.2
+"BMG Interactive Entertainment",1.18
+"Aruze Corp",1.17
+"Sony Computer Entertainment America",1.17
+"Trion Worlds",1.13
+"Jester Interactive",1.13
+"O-Games",1.1
+"Gust",1.09
+"Acquire",1.08
+"Gremlin Interactive Ltd",1.08
+"Mentor Interactive",1.06
+"Epoch",1.05
+"Telegames",1.03
+"Big Ben Interactive",0.98
+"IE Institute",0.96
+"DreamCatcher Interactive",0.96
+"UFO Interactive",0.96
+"Sunsoft",0.96
+"SNK Playmore",0.96
+"Broccoli",0.96
+"Nippon Columbia",0.95
+"Jorudan",0.95
+"Screenlife",0.92
+"Funbox Media",0.9
+"CTO SpA",0.9
+"Victor Interactive",0.89
+"Xseed Games",0.89
+"TalonSoft",0.88
+"Quelle",0.87
+"Destination Software, Inc",0.86
+"mixi, Inc",0.86
+"Bigben Interactive",0.85
+"Ackkstudios",0.84
+"Mud Duck Productions",0.83
+"Mystique",0.82
+"Conspiracy Entertainment",0.81
+"Harmonix Music Systems",0.8
+"Square EA",0.8
+"NovaLogic",0.79
+"Nihon Falcom Corporation",0.78
+"NEC Interchannel",0.78
+"Men-A-Vision",0.77
+"Pioneer LDC",0.75
+"ArtDink",0.75
+"Gamebridge",0.73
+"Starfish",0.71
+"Quest",0.71
+"Illusion Softworks",0.7
+"Data Age",0.7
+"Home Entertainment Suppliers",0.7
+"Paradox Interactive",0.7
+"Media Rings",0.65
+"Sting",0.65
+"Wanadoo",0.64
+"Elf",0.64
+"Aspyr",0.64
+"Universal Gamex",0.63
+"Seta Corporation",0.63
+"Astragon",0.62
+"TDK Core",0.62
+"Wizard Video Games",0.62
+"Foreign Media Games",0.62
+"Prototype",0.61
+"Idea Factory International",0.6
+"ESP",0.59
+"Asylum Entertainment",0.58
+"Kadokawa Games",0.58
+"Nordcurrent",0.58
+"Mumbo Jumbo",0.57
+"AQ Interactive",0.56
+"CPG Products",0.54
+"The Adventure Company",0.52
+"BPS",0.52
+"Answer Software",0.5
+"Hect",0.5
+"Avalon Interactive",0.49
+"Rebellion",0.49
+"Pack In Soft",0.48
+"Activision Blizzard",0.48
+"Swing! Entertainment",0.48
+"Ultravision",0.47
+"Popcorn Arcade",0.46
+"Irem Software Engineering",0.45
+"PlayV",0.45
+"bitComposer Games",0.44
+"Angel Studios",0.44
+"Shogakukan",0.44
+"Electronic Arts Victor",0.43
+"NEC",0.43
+"Aksys Games",0.43
+"Jack of All Games",0.42
+"TYO",0.42
+"Tetris Online",0.42
+"Valcon Games",0.42
+"NCS",0.4
+"Magical Company",0.4
+"MTO",0.4
+"ValuSoft",0.39
+"P2 Games",0.39
+"Microids",0.38
+"Graffiti",0.37
+"989 Sports",0.37
+"Blast! Entertainment Ltd",0.37
+"Performance Designed Products",0.36
+"Hip Interactive",0.35
+"New",0.35
+"U.S. Gold",0.34
+"DSI Games",0.34
+"ITT Family Games",0.34
+"Magix",0.34
+"Time Warner Interactive",0.33
+"Cave",0.33
+"Reef Entertainment",0.33
+"Benesse",0.33
+"Evolved Games",0.33
+"Indie Games",0.32
+"Starpath Corp.",0.32
+"Yacht Club Games",0.31
+"Hackberry",0.31
+"Mad Catz",0.31
+"CBS Electronics",0.31
+"CokeM Interactive",0.31
+"Hamster Corporation",0.31
+"Agatsuma Entertainment",0.31
+"Neko Entertainment",0.3
+"Daedalic",0.3
+"Rebellion Developments",0.29
+"Wargaming.net",0.29
+"Game Life",0.29
+"Media Factory",0.29
+"Playmates",0.29
+"Core Design Ltd.",0.29
+"Telstar",0.28
+"Data Design Interactive",0.28
+"Excalibur Publishing",0.28
+"Vic Tokai",0.28
+"Tru Blu Entertainment",0.28
+"Nichibutsu",0.28
+"ASCII Media Works",0.27
+"Culture Brain",0.27
+"Syscom",0.27
+"CyberFront",0.27
+"Axela",0.26
+"Liquid Games",0.26
+"Nippon Telenet",0.26
+"Pacific Century Cyber Works",0.26
+"Paon",0.25
+"Xing Entertainment",0.25
+"Asgard",0.25
+"Vir2L Studios",0.24
+"Yeti",0.24
+"American Softworks",0.24
+"Essential Games",0.23
+"Daito",0.23
+"Detn8 Games",0.23
+"Asmik Ace Entertainment",0.23
+"O3 Entertainment",0.22
+"Quinrose",0.22
+"Bomb",0.22
+"Vatical Entertainment",0.22
+"System 3",0.21
+"Slitherine Software",0.21
+"Sears",0.21
+"On Demand",0.21
+"Alternative Software",0.21
+"CCP",0.21
+"Mercury Games",0.21
+"Tommo",0.2
+"Micro Cabin",0.2
+"Merscom LLC",0.2
+"Funcom",0.19
+"SSI",0.19
+"Funsta",0.19
+"Happinet",0.18
+"CDV Software Entertainment",0.18
+"Gamecock",0.18
+"Media Works",0.18
+"Adeline Software",0.18
+"DHM Interactive",0.17
+"Tivola",0.17
+"Asmik Corp",0.17
+"Panther Software",0.17
+"Gainax Network Systems",0.17
+"Sunrise Interactive",0.17
+"Phenomedia",0.16
+"Aques",0.16
+"Xicat Interactive",0.16
+"Data East",0.15
+"White Park Bay Software",0.15
+"EA Games",0.15
+"Comfort",0.15
+"Global A Entertainment",0.15
+"responDESIGN",0.14
+"Kaga Create",0.14
+"Game Arts",0.14
+"General Entertainment",0.14
+"Imadio",0.14
+"Sony Music Entertainment",0.14
+"SCS Software",0.14
+"Myelin Media",0.14
+"Moss",0.13
+"FunSoft",0.13
+"LSP Games",0.13
+"Tripwire Interactive",0.13
+"DreamWorks Interactive",0.13
+"HMH Interactive",0.13
+"TopWare Interactive",0.12
+"Bohemia Interactive",0.12
+"T&E Soft",0.12
+"Havas Interactive",0.12
+"Flight-Plan",0.12
+"SPS",0.12
+"Daedalic Entertainment",0.12
+"10TACLE Studios",0.11
+"NDA Productions",0.11
+"Pack-In-Video",0.11
+"PopTop Software",0.11
+"Insomniac Games",0.11
+"Ascaron Entertainment GmbH",0.11
+"TOHO",0.11
+"dramatic create",0.11
+"Gameloft",0.11
+"1C Company",0.1
+"TGL",0.1
+"Enjoy Gaming ltd.",0.1
+"Simon & Schuster Interactive",0.1
+"Interchannel",0.1
+"Type-Moon",0.1
+"Arika",0.1
+"Creative Core",0.1
+"Phantom EFX",0.1
+"Image Epoch",0.1
+"GameTek",0.1
+"PM Studios",0.1
+"Interplay Productions",0.1
+"Hearty Robin",0.09
+"Athena",0.09
+"Tradewest",0.09
+"Griffin International",0.09
+"Origin Systems",0.09
+"Groove Games",0.09
+"Edia",0.09
+"Nippon Amuse",0.09
+"inXile Entertainment",0.09
+"Culture Publishers",0.09
+"Abylight",0.08
+"Cloud Imperium Games Corporation",0.08
+"Milestone",0.08
+"Mitsui",0.08
+"Flashpoint Games",0.08
+"Revolution Software",0.08
+"Glams",0.08
+"Seventh Chord",0.08
+"KID",0.08
+"Altron",0.07
+"Yuke's",0.07
+"Misawa",0.07
+"Encore",0.07
+"Coconuts Japan",0.07
+"Elite",0.07
+"Iceberg Interactive",0.07
+"Princess Soft",0.07
+"Crimson Cow",0.07
+"Locus",0.07
+"Aria",0.07
+"Warp",0.07
+"Licensed 4U",0.06
+"Evolution Games",0.06
+"DigiCube",0.06
+"Grand Prix Games",0.06
+"Experience Inc.",0.06
+"HAL Laboratory",0.06
+"Ecole",0.06
+"Sonnet",0.06
+"MC2 Entertainment",0.06
+"WayForward Technologies",0.06
+"Fortyfive",0.06
+"iWin",0.06
+"Imax",0.06
+"7G//AMES",0.06
+"Office Create",0.06
+"Yumedia",0.06
+"Virtual Play Games",0.06
+"Zenrin",0.06
+"Milestone S.r.l",0.06
+"Dusenberry Martin Racing",0.06
+"Sweets",0.05
+"Monte Christo Multimedia",0.05
+"Mamba Games",0.05
+"Focus Multimedia",0.05
+"Pony Canyon",0.05
+"Phantagram",0.05
+"MediaQuest",0.05
+"System Soft",0.05
+"Team17 Software",0.05
+"GN Software",0.05
+"Alawar Entertainment",0.05
+"Ertain",0.05
+"Minato Station",0.05
+"Pow",0.05
+"TechnoSoft",0.05
+"Max Five",0.05
+"The Learning Company",0.05
+"Vap",0.05
+"Marvel Entertainment",0.05
+"G.Rev",0.04
+"Lexicon Entertainment",0.04
+"Navarre Corp",0.04
+"Gakken",0.04
+"Societa",0.04
+"imageepoch Inc.",0.04
+"Big Fish Games",0.04
+"Yamasa Entertainment",0.04
+"Riverhillsoft",0.04
+"Playmore",0.04
+"Legacy Interactive",0.04
+"Devolver Digital",0.04
+"Kool Kizz",0.04
+"Summitsoft",0.04
+"Alvion",0.04
+"49Games",0.04
+"MLB.com",0.04
+"2D Boy",0.04
+"Just Flight",0.04
+"Extreme Entertainment Group",0.03
+"Paon Corporation",0.03
+"Cygames",0.03
+"Datam Polystar",0.03
+"Fuji",0.03
+"Berkeley",0.03
+"Kids Station",0.03
+"Kando Games",0.03
+"HuneX",0.03
+"Ivolgamus",0.03
+"NetRevo",0.03
+"Kamui",0.03
+"Headup Games",0.03
+"BushiRoad",0.03
+"Blue Byte",0.03
+"Easy Interactive",0.03
+"Maximum Family Games",0.03
+"FuRyu Corporation",0.03
+"KSS",0.03
+"Fields",0.03
+"Her Interactive",0.03
+"Aerosoft",0.03
+"Nexon",0.03
+"Tryfirst",0.03
+"ASK",0.03
+"Dorart",0.03
+"Number None",0.03
+"Sunflowers",0.03
+"Intergrow",0.03
+"Views",0.03
+"Kokopeli Digital Studios",0.03
+"Saurus",0.02
+"fonfun",0.02
+"Giga",0.02
+"Mycom",0.02
+"Technos Japan Corporation",0.02
+"id Software",0.02
+"GOA",0.02
+"Giza10",0.02
+"Phoenix Games",0.02
+"Graphsim Entertainment",0.02
+"Introversion Software",0.02
+"Gaga",0.02
+"Quintet",0.02
+"Plenty",0.02
+"Mirai Shounen",0.02
+"Karin Entertainment",0.02
+"Sold Out",0.02
+"Imageworks",0.02
+"King Records",0.02
+"Codemasters Online",0.02
+"Marvelous Games",0.02
+"Nitroplus",0.02
+"Stainless Games",0.02
+"RED Entertainment",0.02
+"Strategy First",0.02
+"Warashi",0.02
+"Visco",0.02
+"Revolution (Japan)",0.02
+"Lighthouse Interactive",0.01
+"Interchannel-Holon",0.01
+"Michaelsoft",0.01
+"Inti Creates",0.01
+"Commseed",0.01
+"Rain Games",0.01
+"EON Digital Entertainment",0.01
+"Epic Games",0.01
+"Otomate",0.01
+"New World Computing",0.01
+"UIG Entertainment",0.01
+"Naxat Soft",0.01
+"Ongakukan",0.01
+"Media Entertainment",0.01
+"Ascaron Entertainment",0.01
+"Masque Publishing",0.01
+"Piacci",0.01
+"Paradox Development",0.01
+"Boost On",0.01
+"Genterprise",0.01
+"Interworks Unlimited, Inc.",0.01
+"Takuyo",0.01
